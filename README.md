@@ -1,6 +1,5 @@
 # PICTURE OF MY FORKED THEME!
-<img width="3838" height="2086" alt="image" src="https://github.com/user-attachments/assets/0ffba30c-81a3-4cdb-8efd-54d56945c41a" />
-
+<img width="3838" height="2086" alt="preview" src="https://github.com/user-attachments/assets/220a55b6-6f00-4f9b-a077-9b6d9d75750b" />
 
 
 
