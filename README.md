@@ -1,3 +1,13 @@
+# PICTURE OF MY FORKED THEME!
+<img width="3838" height="2086" alt="image" src="https://github.com/user-attachments/assets/0ffba30c-81a3-4cdb-8efd-54d56945c41a" />
+
+
+
+
+
+
+
+
 # Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### A translucent/frosted glass Discord theme
 <hr>
